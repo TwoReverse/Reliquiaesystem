@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-  <h1> WELCOME TO @SIFFRIN! </h1>
+  <h1> WELCOME TO @RAN! </h1>
     <p align="center">
       <img height="90" src="https://64.media.tumblr.com/bb382a5587b4881cb092b7511f56c2f0/9294095bd274d868-e1/s2048x3072/e070fe5d6b75ab67aee8b360a22c537f84e6ba0c.pnj" >
     </p> 
@@ -10,7 +10,7 @@
    <body>
       <section> 
             <br>
-              <p align="center"> <i><b> Siffrin/Ran </b> </i> 
+              <p align="center"> <i><b> Ran/Reliq </b> </i> 
                <img src="https://64.media.tumblr.com/aa4536901aa184b39d53a42f10968cc7/756bfdb7bd81d3f0-9a/s75x75_c1/7aea6bcc4976d7e84364567a2cfa07cb5fae2750.gifv">
                20  ☆ Taken <3
               <p align="center"><i> OSDD1b System in recovery </i></p>
